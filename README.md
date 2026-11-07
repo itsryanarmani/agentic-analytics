@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/agentic-analytics)](https://www.npmjs.com/package/agentic-analytics) [![Downloads/month](https://img.shields.io/npm/dm/agentic-analytics)](https://www.npmjs.com/package/agentic-analytics) [![MIT license](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/license/mit)
 
-[Package](https://www.npmjs.com/package/agentic-analytics) · [Input guide](#integration-guides) · [API](#runtime-surfaces) · [Support](https://github.com/pooriaarab/agentic-analytics/issues)
+[Package](https://www.npmjs.com/package/agentic-analytics) · [Input guide](#integration-guides) · [API](#runtime-surfaces) · [Support](https://github.com/itsryanarmani/agentic-analytics/issues)
 
 agentic-analytics is an open-source social post analytics toolkit for developers and agents. It ranks supplied metrics, compares formats, and produces rule-based next moves. Reports run locally through a JavaScript SDK, command-line interface (CLI), or Model Context Protocol (MCP) server.
 
@@ -160,7 +160,7 @@ No `.env` loading is needed for local analytics.
 ## Status
 
 Version 0.1.0 is an early release. The API and recommendation rules can change before 1.0.
-[Report bugs or request support](https://github.com/pooriaarab/agentic-analytics/issues).
+[Report bugs or request support](https://github.com/itsryanarmani/agentic-analytics/issues).
 Public case studies are not yet published in this repository.
 Contributors can run `npm run build`, `npm run typecheck`, and `npm test`.
 
