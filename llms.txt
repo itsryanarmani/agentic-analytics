@@ -10,6 +10,6 @@ Keywords: analytics,social,metrics,agentic-suite,cli,mcp.
 
 ## Docs
 
-- README: https://github.com/pooriaarab/agentic-analytics
-- Core contract: https://github.com/pooriaarab/agentic-analytics/blob/main/docs/agentic-core.md
+- README: https://github.com/itsryanarmani/agentic-analytics
+- Core contract: https://github.com/itsryanarmani/agentic-analytics/blob/main/docs/agentic-core.md
 - License: MIT
